@@ -5,3 +5,8 @@
 **My personal [NUR](https://github.com/nix-community/NUR) repository, aiming to provide modules for macOS and packages I can't find elsewhere**
 
 ## Packages
+## Modules
+- Network
+    - Firewall
+- Backup script
+## Overlays
